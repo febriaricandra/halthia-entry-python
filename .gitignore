@@ -1,0 +1,14 @@
+# Direktori virtual environment
+.venv/
+
+# Direktori yang berisi file hasil build
+/halthia_model/
+
+# File cache atau log
+.pytest_cache/
+__pycache__/
+
+# File untuk debugging
+.vscode/
+
+.env

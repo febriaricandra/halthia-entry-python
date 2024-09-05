@@ -1,0 +1,6 @@
+Flask
+transformers
+tensorflow
+numpy
+tf-keras
+sentencepiece
